@@ -1,0 +1,2 @@
+- [[STRIPPED - CISSP]]
+- [[STRIPPED SCS-02]]
